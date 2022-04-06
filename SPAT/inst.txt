@@ -1,0 +1,16 @@
+Building a Single Page Web App in JS - No Frameworks!
+https://www.youtube.com/watch?v=5HgMIP5tarE
+https://github.com/AndyMilneDotIO/single-page-webapp/tree/main/pages
+
+
+Create all the base files:
+index.html 
+404
+About
+home
+pricing
+
+script.JS
+style.css
+
+2.-
